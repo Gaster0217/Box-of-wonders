@@ -209,4 +209,4 @@ async def bwish(ctx, member):
         await ctx.send("Something's not right... Sorry!!")
 
 
-a.run("NzMwMjYyMDM5MTYyOTEyOTUw.XwU7jw.xNbHc96USl5zU5KaGPMIftnIPM8")
+a.run("hahyoufellforitfoolitwasIDIO")
