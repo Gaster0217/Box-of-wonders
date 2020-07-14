@@ -1,2 +1,2 @@
-# Discord-Bot
+# Simple discord bot
 My precious Nayo
