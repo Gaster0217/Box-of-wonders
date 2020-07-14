@@ -94,7 +94,7 @@ os.chdir(r"C:\D drive\Official")
 @a.event
 async def on_user_join(member):
     print(f"{member} has joined")
-    bot.load_extension('cogs.music')
+    a.load_extension('cogs.music')
 
 @a.event
 async def on_user_leave(member):
@@ -143,7 +143,6 @@ async def unban(ctx, *, member):
     try:
         bu = await ctx.guild.bans()
         a, b = member.split("#")
-
         for j in bu:
             u = j
             if (u.x, u.y) == (a, b):
