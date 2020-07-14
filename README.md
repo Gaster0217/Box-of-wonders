@@ -1,2 +1,2 @@
-# Simple discord bot
-My precious Nayo
+# Mysteryyyy
+Nothing much
