@@ -6,7 +6,7 @@ rl.question(`Would you like to [A]be a youtuber or [B]be unemployed or [C]be a h
     console.log(`Okay, loser hahaha lemme guess a commentary channel? Huh?`);
   }
   else if (option == "B") {
-    console.log(`Yeah atleast you're not a commentary youtube channel..`)
+    console.log(`Yeah atleast you're not a commentary youtube channel..`);
   }
   else if (option == "C") {
     console.log(`You are so honorable kind sir may I be your wife?`);
