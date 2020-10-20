@@ -1,13 +1,7 @@
 import discord
 from discord.ext import commands
 import time
-import os
 import random
-
-acrs = [""] * 1000
-resps = [""] * 1000
-a = commands.Bot(command_prefix = "n.")
-zt = 0
 
 
 @a.event
